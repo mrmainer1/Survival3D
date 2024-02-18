@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75cdb7f01745fec4db0a6a725261cffa, type: 3}
+  m_Name: Bonfire
+  m_EditorClassIdentifier: 
+  id: 4
+  name: "\u041A\u043E\u0441\u0442\u0435\u0440 "
+  description: "\u0414\u0430\u0435\u0442 \u0442\u0435\u043F\u043B\u043E"
+  icon: {fileID: 21300000, guid: 6f555460b28f2ea48b7588dc15a4d191, type: 3}
+  prefabs: {fileID: 7570628652072937250, guid: edc1d10e16f05ec46b5203337fa6e987, type: 3}
+  actionType: 3
+  damage: 0

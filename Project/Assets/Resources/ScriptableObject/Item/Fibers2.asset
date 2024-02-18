@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75cdb7f01745fec4db0a6a725261cffa, type: 3}
+  m_Name: Fibers2
+  m_EditorClassIdentifier: 
+  id: 9
+  name: "\u041B\u0438\u0441\u0442\u043E\u0447\u043A\u0438"
+  description: "\u041E\u043D\u0438 \u043A\u0440\u0430\u0441\u0438\u0432\u044B\u0435"
+  icon: {fileID: 21300000, guid: 6bb8774c5d098d14d965e41abe3cb0bd, type: 3}
+  prefabs: {fileID: 3186738965313583894, guid: baa6779284fa0fa46b601dded18fad06, type: 3}
+  actionType: 0
+  damage: 0
+  valueAddHealth: 0
+  valueAddHunger: 0

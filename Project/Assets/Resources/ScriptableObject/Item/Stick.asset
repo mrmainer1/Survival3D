@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75cdb7f01745fec4db0a6a725261cffa, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: 
+  id: 7
+  name: "\u041F\u0430\u043B\u043A\u0430"
+  description: "\u0414\u043B\u0438\u043D\u043D\u044B\u0435"
+  icon: {fileID: 21300000, guid: 347d32ee8dd87d0468b7c615f7838dbb, type: 3}
+  prefabs: {fileID: 569094096000437663, guid: 1fdde23116bcb0c4e987d1c1f429e7ca, type: 3}
+  actionType: 0
+  damage: 0
+  valueAddHealth: 0
+  valueAddHunger: 0

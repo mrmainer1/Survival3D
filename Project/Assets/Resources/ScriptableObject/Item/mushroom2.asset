@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75cdb7f01745fec4db0a6a725261cffa, type: 3}
+  m_Name: mushroom2
+  m_EditorClassIdentifier: 
+  id: 8
+  name: "\u0416\u0435\u043B\u0442\u044B\u0439 \u0433\u0440\u0438\u0431"
+  description: "\u043C\u043E\u0436\u043D\u043E \u0441\u043A\u0443\u0448\u0430\u0442\u044C,
+    \u0432\u043A\u0443\u0441\u043D\u044B\u0439"
+  icon: {fileID: 21300000, guid: b9548c781616cd044940a2277e5c5004, type: 3}
+  prefabs: {fileID: 5958755508147068478, guid: c07e91a319eb38b498f446891299d40a, type: 3}
+  actionType: 1
+  damage: 0
+  valueAddHealth: 20
+  valueAddHunger: 15
